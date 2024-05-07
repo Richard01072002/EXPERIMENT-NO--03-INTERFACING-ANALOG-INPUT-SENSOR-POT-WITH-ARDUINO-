@@ -20,7 +20,7 @@
 
 #### THEORY: 
 
-Analog signals:
+#### Analog signals:
 
 Analog signals – directly measurable quantities in terms of some other quantity.
 Examples:
@@ -70,6 +70,8 @@ CIRCUIT DIAGRAM
 
 #### PROGRAM
 ```
+
+
 int led=4;
 int sensorpot;
 void setup()
@@ -99,6 +101,8 @@ void loop()
   }
     
 }
+
+
 ```
 
 #### Circuit Diagram:
@@ -110,8 +114,6 @@ void loop()
 
 
 #### Simulation output:
-
-
 
 
 
