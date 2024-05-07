@@ -1,7 +1,9 @@
  ## EXPERIMENT-NO--2--INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
 
-
-
+###  DATE: 04-03-2024
+###  NAME: RICHARDSON A
+###  ROLL NO : 212222233005
+###  DEPARTMENT: AI&DS
 
 ### AIM:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
 
